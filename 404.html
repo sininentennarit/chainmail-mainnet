@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <script>
+      const { pathname, search, hash } = window.location;
+      if (pathname) {
+        window.location.replace('/#' + pathname);
+      }
+      else {
+        window.location.replace('/' + search + hash);
+      }
+
+    </script>
+</head>
+</html>
