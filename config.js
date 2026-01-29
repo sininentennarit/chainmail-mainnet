@@ -9,6 +9,6 @@ const config = {
   message_token_contract_package_hash: "f03fe4e6a37edeb02a4b5458961058a80a439b9cb54a0e3c12d620a4f445d78f",
   stamp_token_contract_package_hash: "c0148bac98dbdba400e5711c42b7b1601477f6ad06de30d1ca8d34b083af1074",
   stamp_cost: 5,
-  stamp_transaction_cost: 9.5,
+  stamp_transaction_cost: 5,
   message_transaction_cost: 8,
 };
