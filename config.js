@@ -1,7 +1,7 @@
 const config = {
   cspr_click_app_name: "ChainMail",
   cspr_click_app_id: "b4ec1b73-dcb1-4658-9c30-a741196d",
-  cspr_click_providers: ['casper-wallet', 'ledger', 'metamask-snap'],
+  cspr_click_providers: ['casper-wallet', 'ledger', 'metamask-snap', 'csprclick-w3a-google', 'csprclick-w3a-apple'],
   cspr_live_url: "https://cspr.live",
 
   send_message_entry_point_id: 480280,
